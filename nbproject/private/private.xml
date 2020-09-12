@@ -2,19 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/EditInfo.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/AllStudentShow.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/StudentLogin.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/DeleteStud.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/Result.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/Attendence.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/StudSignIn.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/DashBoard.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/ParsonalInformationShow.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/ResultOptions.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/Routine.java</file>
-            <file>file:/D:/Java/StudentManagementSystem/src/studentmanagementsystem/StudentManagementSystem.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
